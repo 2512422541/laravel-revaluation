@@ -18,7 +18,7 @@
 You can install the package using composer
 
 ```sh
-$ composer require overtrue/laravel-revaluation -vvv
+$ composer require 2512422541/laravel-revaluation -vvv
 ```
 
 Then add the service provider to `config/app.php`
